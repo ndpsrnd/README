@@ -20,7 +20,30 @@ help -> Install new software
 <img src="https://github.com/ndpsrnd/README/blob/master/install2.png?raw=true" />
 
 
+<h3>이클립스 설정</h3>
+
+<hr />
+
+<br />
+
+Window -> Preferences -> Team -> Git
+
+Default repository Foder를 workspace로 변경 
+<br />
+
+<img src="https://github.com/ndpsrnd/README/blob/master/repodir.png?raw=true" />
+
+Team -> Git -> Configuration
+
+email, name 설정 
+
+<br />
+
+<img src="https://github.com/ndpsrnd/README/blob/master/gitsetting.png?raw=true" />
+
+
 <h3>프로젝트 Import</h3>
+<hr />
 
 File -> Import
 
@@ -36,13 +59,3 @@ File -> Import
 <br />
 
 <img src="https://github.com/ndpsrnd/README/blob/master/import3.png?raw=true" />
-
-
-<br />
-<hr />
-<br />
-※ Clone 디렉토리를 현재 workspace로 변경합니다. 
-
-<br />
-
-<img src="https://github.com/ndpsrnd/README/blob/master/workingdir.png?raw=true" />
