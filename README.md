@@ -1,4 +1,4 @@
-<h6>이클립스에서 git 사용</h6>
+<h1>이클립스에서 git 사용</h1>
 
 <p> 이클립스에서 https를 사용할 수 있도록 이클립스 ini 파일에 아래 설정을 추가합니다.</p>
 
@@ -11,7 +11,7 @@
 <img src="https://github.com/ndpsrnd/README/blob/master/eclipseinit.png?raw=true" />
 
 
-<h1>egit 플러그인 설치</h1>
+<h3>egit 플러그인 설치</h3>
 
 help -> Install new software
 <hr />
@@ -22,7 +22,7 @@ help -> Install new software
 <img src="https://github.com/ndpsrnd/README/blob/master/install2.png?raw=true" />
 
 
-<h1>프로젝트 Import</h1>
+<h3>프로젝트 Import</h3>
 
 File -> Import
 
@@ -48,16 +48,3 @@ File -> Import
 <br />
 
 <img src="https://github.com/ndpsrnd/README/blob/master/workingdir.png?raw=true" />
-
-
-
-
-
-
-
-
-
-
-<h6>이클립스에서 github 저장소 가져오기</h6>
-
-
