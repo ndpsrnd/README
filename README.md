@@ -2,9 +2,7 @@
 
 <p> 이클립스에서 https를 사용할 수 있도록 이클립스 ini 파일에 아래 설정을 추가합니다.</p>
 
-<div style="color: blue">
 -Dhttps.protocols=TLSv1.1,TLSv1.2
-</div>
 
 <hr />
 
@@ -39,12 +37,12 @@ File -> Import
 
 <img src="https://github.com/ndpsrnd/README/blob/master/import3.png?raw=true" />
 
-<div style="color: red;">
-※ Clone 디렉토리를 현재 workspace로 변경합니다. 
-</div>
 
 <br />
 <hr />
+<br />
+※ Clone 디렉토리를 현재 workspace로 변경합니다. 
+
 <br />
 
 <img src="https://github.com/ndpsrnd/README/blob/master/workingdir.png?raw=true" />
