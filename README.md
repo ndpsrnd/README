@@ -1,4 +1,4 @@
-<h6>공통 작업</h6>
+<h6>이클립스에서 git 사용</h6>
 
 <p> 이클립스에서 https를 사용할 수 있도록 이클립스 ini 파일에 아래 설정을 추가합니다.</p>
 
@@ -6,10 +6,50 @@
 -Dhttps.protocols=TLSv1.1,TLSv1.2
 </font>
 
+<hr />
+
 <img src="https://github.com/ndpsrnd/README/blob/master/eclipseinit.png?raw=true" />
 
 
 <h1>egit 플러그인 설치</h1>
+
+help -> Install new software
+<hr />
+<img src="https://github.com/ndpsrnd/README/blob/master/eclipsenewinstall.png?raw=true" />
+
+<br />
+
+<img src="https://github.com/ndpsrnd/README/blob/master/install2.png?raw=true" />
+
+
+<h1>프로젝트 Import</h1>
+
+File -> Import
+
+<br />
+<br />
+
+<img src="https://github.com/ndpsrnd/README/blob/master/import1.png?raw=true" />
+
+<br />
+
+<img src="https://github.com/ndpsrnd/README/blob/master/import2.png?raw=true" />
+
+<br />
+
+<img src="https://github.com/ndpsrnd/README/blob/master/import3.png?raw=true" />
+
+<font color="#FF3232">
+※ Clone 디렉토리를 현재 workspace로 변경합니다. 
+</font>
+
+<br />
+<hr />
+<br />
+
+<img src="https://github.com/ndpsrnd/README/blob/master/workingdir.png?raw=true" />
+
+
 
 
 
